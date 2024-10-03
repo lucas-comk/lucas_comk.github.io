@@ -1,4 +1,11 @@
+html {
+    background-color: #D18F22;
+}
+
 body {
+    background-color: #e2a645;
+  }
+  #mainTitleText {
     background-color: #D18F22;
   }
   h1 {
@@ -18,5 +25,7 @@ body {
   }
 
 footer {
+    background-color: #D18F22;
     color: #573e11;
+    font-family: arial;
 }
