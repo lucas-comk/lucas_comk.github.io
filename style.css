@@ -1,11 +1,22 @@
 body {
-    background-color: lightblue;
+    background-color: #D18F22;
   }
   h1 {
-    color: white;
-    text-align: center;
+    color: #ecd9b6;
+    font-family: Courier;
+    font-size: 48px;
+  }
+  h2 {
+    color: #ecd9b6;
+    font-family: verdana;
+    font-size: 24px; 
   }
   p {
+    color: #ecd9b6;
     font-family: verdana;
-    font-size: 20px;
+    font-size: 16px;
   }
+
+footer {
+    color: #573e11;
+}
